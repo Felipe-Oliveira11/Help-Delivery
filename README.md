@@ -68,4 +68,17 @@ Com a elaboração e implantação do nosso software, há um alívio na desigual
 
 
 <br>
+
+### Participantes
+
+* [Davi Monteiro Paulelli](https://www.linkedin.com/in/davi-monteiro-paulelli-8813431b0/)
+* [Felipe Oliveira da Silva](https://www.linkedin.com/in/felipe-oliveira-18a573189/)
+* [Havner Menezes Almeida](https://www.linkedin.com/in/havner-almeida-494210186/)
+* [Haylton Bernardes Neto](https://www.linkedin.com/in/haylton-bernardes-5021b816b/)
+* Thiago Corrêa de Oliveira Jessé
+
+
+
 <hr>
+
+
