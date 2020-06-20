@@ -2,8 +2,7 @@
 <hr>
 
 
-
-### Help Delivery 
+### Sobre 
 
 O help delivery é um aplicativo que foi desenvolvido, para reduzir os impactos de desigualdade social e desemprego no país, dada as condições da pandemia COVID-19.
 
@@ -30,3 +29,43 @@ Com a elaboração e implantação do nosso software, há um alívio na desigual
 <br>
 
 ![alt text](https://github.com/Felipe-Oliveira11/Help-Delivery/blob/master/Imagens/tela_01.PNG)
+
+
+<hr>
+
+### Storyboard - Doador
+
+1-	O doador se cadastra com seus dados básicos.
+
+2-	O doador confirma seus dados, por meio de uma verificação.
+
+3-	O doador realiza o login, com e-mail e senha.
+
+4-	O doador seleciona uma sessão de doação.
+
+5-	O doador seleciona o(s) produto(s) requisitados.
+
+6-	O doador confirma a doação.  
+
+7-	O doador realiza o pagamento da entrega via cartão de débito/crédito
+
+<br>
+
+
+### Storyboard - Necessitado 
+
+1-	O usuário se cadastra com seus dados básicos.
+
+2-	O usuário confirma seus dados, por meio de uma verificação.
+
+3-	O usuário realiza o login, com e-mail e senha.
+
+4-	O usuário seleciona os produtos requeridos, para realizar uma entrega.
+
+5-	O usuário confirma os produtos selecionados.
+
+6-	O usuário realiza o pedido.
+
+
+<br>
+<hr>
